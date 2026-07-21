@@ -229,18 +229,3 @@ Contributions are welcome! Please open an issue or submit a pull request.
 
 ---
 
-## 📄 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
----
-
-## 👤 Author
-
-**Mohammed** — [@Mohxmd-01](https://github.com/Mohxmd-01)
-
----
-
-<div align="center">
-⚡ Built with passion for smart infrastructure security ⚡
-</div>
